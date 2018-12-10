@@ -1,7 +1,7 @@
 ---
-author: epidrome
+author: iliasot
 title: "ilias"
-image_url: /images/facebook2.jpg
+image_url: /images/keyboard.png
 caption: "Ανεξάρτητα από τη μελλοντική αποδοχή του φαινομένου του Facebook, σίγουρα η επίδρασή του στον τρόπο που αναπτύσσονται και λειτουργούν οι διαδραστικές εφαρμογές θα είναι διαχρονική, καθώς μια σειρά από εφαρμογές σε διαφορετικά πεδία (π.χ., LinkedIn, ResearchGate, GitHub, κτλ.) στηρίζονται στις βασικές λειτουργίες του κοινωνικού δικτύου."
 categories:
   - case-study
