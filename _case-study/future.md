@@ -1,0 +1,21 @@
+---
+author: epidrome
+title: "futureTitle"
+image_url: /images/keyboard-thumb.png
+caption: "σημειο1 ."
+categories:
+  - case-study
+  - models
+tags:
+  - facebook
+  - success
+gallery:
+  - image_url: /images/keyboard-thumb.png
+    caption: " σημειο 2."
+  - image_url: /images/facebook2.jpg
+    caption: "Δέκα χρόνια μετά την πρώτη έκδοσή του, η βασική ιδέα του Facebook παραμένει η ίδια, ενώ οι αλλαγές ακολουθούν το πνεύμα της εποχής (π.χ., ομοιόμορφη πρόσβαση σε οθόνες διαφορετικού μεγέθους responsive web design) και νέες λειτουργίες προστίθενται (π.χ., παιχνίδια, εφαρμογές, ειδήσεις, σελίδες για εταιρείες, κτλ.) για να κρατήσουν τους χρήστες όσο περισσότερη ώρα γίνεται στην υπηρεσία."
+---
+
+{% include_relative cs-future.md %}
+
+{% include slides.html %}
